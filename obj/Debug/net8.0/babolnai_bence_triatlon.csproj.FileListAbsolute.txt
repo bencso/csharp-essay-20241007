@@ -1,0 +1,14 @@
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\bin\Debug\net8.0\babolnai_bence_triatlon.exe
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\bin\Debug\net8.0\babolnai_bence_triatlon.deps.json
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\bin\Debug\net8.0\babolnai_bence_triatlon.runtimeconfig.json
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\bin\Debug\net8.0\babolnai_bence_triatlon.dll
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\bin\Debug\net8.0\babolnai_bence_triatlon.pdb
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\babolnai_bence_triatlon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\babolnai_bence_triatlon.AssemblyInfoInputs.cache
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\babolnai_bence_triatlon.AssemblyInfo.cs
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\babolnai_bence_triatlon.csproj.CoreCompileInputs.cache
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\babolnai_bence_triatlon.dll
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\refint\babolnai_bence_triatlon.dll
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\babolnai_bence_triatlon.pdb
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\babolnai_bence_triatlon.genruntimeconfig.cache
+C:\Users\babolnai.bence\Desktop\babolnai_bence_triatlon\obj\Debug\net8.0\ref\babolnai_bence_triatlon.dll
